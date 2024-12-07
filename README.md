@@ -1,2 +1,2 @@
 # testowe
-Testowe repozytorium publiczce -Karol
+Testowe repozytorium publiczce - Karol
